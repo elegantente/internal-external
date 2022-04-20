@@ -1,0 +1,58 @@
+#cat{
+    color:#000000;background:#ffd000;text-align: center;
+}
+
+#facebook{
+    color:white;text-align:center;background:#3b5998
+}
+
+#twitter{
+    color:#25a5;text-align:center;background:#1DA1F2
+}
+
+#bull{
+    color:rgb(22, 216, 48);text-align: center;background:#ff009d
+}
+
+#zebra{
+    color:#be2222;text-align: center;background: #6b5b95;
+}
+
+#snake{
+    color:#1900ff;text-align: center;background:#be2222
+}
+
+
+#paragraf1{
+    background:green;
+    color: black;
+}
+
+#paragraf2{
+    background:rgb(75, 72, 72);
+    color: rgb(216, 46, 46);
+}
+
+
+#paragraf3{
+    background:rgb(253, 55, 20);
+    color: black;
+}
+
+
+#paragraf4{
+    background:rgb(255, 1, 141);
+    color: black;
+}
+
+
+#paragraf5{
+    background:rgb(240, 245, 240);
+    color: black;
+}
+
+
+#paragraf6{
+    background:rgb(0, 0, 0);
+    color: rgb(44, 96, 139);
+}
